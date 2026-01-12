@@ -14,9 +14,9 @@ public class DemoQATableTest {
     WebDriver driver;
     WebDriverWait wait;
 
-    String firstName = "Rakesh";
-    String lastName = "Kumar";
-    String email = "rakesh@test.com";
+    String firstName = "Chinmaya";
+    String lastName = "Dalal";
+    String email = "chinmaya@test.com";
     String age = "28";
     String updatedAge = "35";
 
@@ -106,3 +106,4 @@ public class DemoQATableTest {
         driver.quit();
     }
 }
+
